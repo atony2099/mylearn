@@ -6,8 +6,7 @@
      a dancing partner 
 	： 
 2. miminal
-	1. small in size,amount,degree
- 	the work was finished at minimal cost
+	1. small in size,amount,degree: the work was finished at minimal cost
 
 
 3. the data have nothing to do with you 
@@ -204,3 +203,38 @@
 3. utility
 	1. a software performs a particular task	：
 
+## 4.11
+1.intermediate
+    1. between two stage,position, level: do you make any intermediate stop between your home and work
+2.normal
+    1. usual or oridinary: her temperature is noraml
+3.form
+  1. sth look, is presented; the way of doing sth
+    1. we need come to some form of aggrement
+    2. help in the form of money
+4.candidate 
+  1. begin considered for a position: he is candinate for the cto
+  2.likely do or become sth: he is candinate for cancer
+
+## 4.13
+1. sake
+
+## 4.17
+1. grant
+  1.agree give sb what they ask for:  my request was granted; she was granted to divorce
+
+ 
+
+## 4.22
+1.snapshot
+2.preceded
+3. So other than ideals and how they choose to implement POSIX standards, there is little difference.
+
+## 4.23
+1.ultimately
+  1. finally: ultimately, you'll have to make your decision yourself
+  2. at most basic and important level: all life depends on oxygen;
+
+## 4.26
+1. intermediary
+  1. a person in the middle;  
