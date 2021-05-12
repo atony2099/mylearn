@@ -6,8 +6,7 @@
      a dancing partner 
 	： 
 2. miminal
-	1. small in size,amount,degree
- 	the work was finished at minimal cost
+	1. small in size,amount,degree: the work was finished at minimal cost
 
 
 3. the data have nothing to do with you 
@@ -177,6 +176,7 @@
 ##3.31
 1. stage	
 
+<<<<<<< HEAD
 2. staged
 
 
@@ -184,3 +184,96 @@
 
 
 
+=======
+# 3.31
+1. normal
+	1.the usual state, level: things return to normal; 
+
+2. argue
+	1. speak angrily: argue with each other about money
+	2.give reason: 1. they argue for the right to strike 2. i don't want to argue that point
+
+3.anomaly
+
+4.restore
+	1. bring back a situations: restore the confidene
+
+
+
+##4.5
+1. constitute 
+	1. to be parts of sth: female students constitute the majority of the school 
+	2. kernel
+		1. 
+2. as
+	1. adv or conj like: 
+		1. he is as tall as his father
+		2. i like girls, as you do === run as fast as you can
+	2. prep
+		1. like: dressed as a girl 
+		2. work as a enginer  
+3. utility
+	1. a software performs a particular task	：
+
+## 4.11
+1.intermediate
+    1. between two stage,position, level: do you make any intermediate stop between your home and work
+2.normal
+    1. usual or oridinary: her temperature is noraml
+3.form
+  1. sth look, is presented; the way of doing sth
+    1. we need come to some form of aggrement
+    2. help in the form of money
+4.candidate 
+  1. begin considered for a position: he is candinate for the cto
+  2.likely do or become sth: he is candinate for cancer
+
+## 4.13
+1. sake
+
+## 4.17
+1. grant
+  1.agree give sb what they ask for:  my request was granted; she was granted to divorce
+
+ 
+
+## 4.22
+1.snapshot
+2.preceded
+3. So other than ideals and how they choose to implement POSIX standards, there is little difference.
+
+## 4.23
+1.ultimately
+  1. finally: ultimately, you'll have to make your decision yourself
+  2. at most basic and important level: all life depends on oxygen;
+
+## 4.26
+1. intermediary
+  1. a person in the middle;  
+
+2. mortal
+3. encounter
+4. resembles
+  
+
+## 4.30
+1. obstacle
+   hit an obstacle
+2.ship
+  send people, goods by some mean of transportation
+3.hierarchy
+  things are organized into different levels: the social hierarchy
+
+
+## 5.01
+1. peculiarity
+   unusual characters or habit: 
+1. peculiarity
+   unusual characters or habit: 
+
+2. mimic
+   computer mimic human thoughts
+3. scenarios
+   1.things might happen in the future: suggest a possibloe scenarios;
+ 
+>>>>>>> develop
