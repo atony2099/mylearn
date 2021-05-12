@@ -267,3 +267,6 @@
 3. scenarios
    1.things might happen in the future: suggest a possibloe scenarios;
  
+## 5.03
+1. entity:
+	has a clearly identit of its own: a single entity
