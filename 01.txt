@@ -270,3 +270,6 @@
 ## 5.03
 1. entity:
 	has a clearly identit of its own: a single entity
+
+2. motivation
+	cause you do it: money is my motivaton
