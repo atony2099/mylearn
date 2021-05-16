@@ -239,7 +239,9 @@
 
 ## 4.22
 1.snapshot
-2.preceded
+2.precede:
+	1. before: 
+	2. 
 3. So other than ideals and how they choose to implement POSIX standards, there is little difference.
 
 ## 4.23
@@ -276,4 +278,3 @@
 3. scenarios
    1.things might happen in the future: suggest a possibloe scenarios;
  
->>>>>>> develop
