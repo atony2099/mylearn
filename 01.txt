@@ -176,15 +176,6 @@
 ##3.31
 1. stage	
 
-<<<<<<< HEAD
-2. staged
-
-
-	
-
-
-
-=======
 # 3.31
 1. normal
 	1.the usual state, level: things return to normal; 
@@ -278,3 +269,9 @@
 3. scenarios
    1.things might happen in the future: suggest a possibloe scenarios;
  
+## 5.03
+1. entity:
+	has a clearly identit of its own: a single entity
+
+2. motivation
+	cause you do it: money is my motivaton
