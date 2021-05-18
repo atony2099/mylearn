@@ -231,8 +231,10 @@
 ## 4.22
 1.snapshot
 2.precede:
-	1. before: 
-	2. 
+	1. time, position before another:  
+		1. the symbol precedes  the string
+		2. the year  preceding the war
+	
 3. So other than ideals and how they choose to implement POSIX standards, there is little difference.
 
 ## 4.23
@@ -275,3 +277,13 @@
 
 2. motivation
 	cause you do it: money is my motivaton
+
+
+## 5.16
+1. limit: 
+	1. the max or min amount, degree of something that is possible because of capability or rules:
+		1. he performs the limits of his capability
+		2. there is no limit to how much fruits you can eat;
+	2. the boundary
+		city limit 
+
